@@ -1,0 +1,54 @@
+physiophoni.cc PX-7
+Copyright (c) 2026 Birk E. Stolt. All rights reserved.
+
+This is a proprietary licence. It is not an open source licence.
+
+
+1. What this licence covers
+
+"The Software" means the physiophoni.cc PX-7 synthesizer as published at https://physiophoni.cc and in this repository, in encrypted or decrypted form. It includes everything the page contains once it is unlocked with an access code: program code, markup, stylesheets, presets, sounds, graphics and text. It also includes every earlier build published in this repository, and any copy, extract, translation or modification of any of these. It does not include the patches, recordings and other material you make with the Software, which section 4 covers.
+
+
+2. Publication grants no rights
+
+The Software is stored in this public repository only so that the website can be served. That the encrypted page can be downloaded, and that its contents can be read once it is unlocked, gives no one a right to use, copy or share them. Nothing here is licensed to you except as this licence sets out.
+
+
+3. Licence to use
+
+If the copyright holder has given or sold you an access code, you may use the Software through the website https://physiophoni.cc in a web browser, on your own devices, for as long as your access code is valid. This permission is personal, non-exclusive and non-transferable. Terms agreed with you in writing, for example when you bought access, take precedence over this section.
+
+If someone licensed under the paragraph above invites you to join their session with the pads link, you may unlock the Software with the code they give you and use it as a pad in that session. This permission covers nothing else in the Software, and it ends when that session ends or when the inviting person's licence ends, whichever comes first.
+
+
+4. What you make is yours
+
+Audio, MIDI files, patches and other material you create with the Software belong to you, and you may use, sell and publish them freely. That includes a patch you make by changing a supplied preset. This does not extend to the presets and sounds supplied with the Software, which you may not distribute on their own, other than through the Software's own share links and patch files.
+
+
+5. What you may not do
+
+Unless the copyright holder has agreed to it in writing, or this licence allows it elsewhere, you may not:
+
+(a) give your access code to anyone else, except so that other people can join a session you are running with the pads link;
+(b) save, copy, extract or reproduce the decrypted contents of the page, in whole or in part, beyond the copies a browser makes to run it and the patches, recordings and files you save, export or share with the Software's own features;
+(c) publish, distribute, host, mirror, sell, rent or lend the Software or any part of it;
+(d) modify, translate or adapt the Software, build other works on it, or use it as data for training or tuning machine learning models;
+(e) reverse engineer, decompile or disassemble the Software, or undo its minification;
+(f) decrypt the Software without an access code issued to you or given to you under section 3, or circumvent, disable or work around the encryption or any other measure that controls access to it;
+(g) remove or alter this licence or any copyright notice.
+
+
+6. Rights the law gives you regardless
+
+Nothing in this licence limits rights that the law applying to you does not allow a contract to exclude, such as the rights under the EU Software Directive (2009/24/EC) to observe and test how a program works, or to decompile it for interoperability, within the limits that law sets.
+
+
+7. Ending
+
+This licence ends automatically if you break any of its terms, or when your access code expires or is withdrawn. A guest's permission under section 3 also ends as set out there. You must then stop using the Software and delete any copies of it you hold.
+
+
+8. No warranty
+
+The Software is provided as is, without warranty of any kind. To the extent the law allows, the copyright holder is not liable for any loss or damage arising from using it or being unable to use it.
